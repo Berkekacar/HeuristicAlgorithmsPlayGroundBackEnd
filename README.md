@@ -22,7 +22,7 @@ cd server
 ```bash
 npm install
 ```
- and to download node-modules
+ and to run server
 ```bash
-npm npm start
+npm start
 ```
